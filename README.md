@@ -1,4 +1,4 @@
-# bit-iberiamericana-desarrollo-web-full-sack
+# bit-iberoamericana-desarrollo-web-full-stack
 Primer trabajo del curso Desarrollo web full stack developer
 
 
